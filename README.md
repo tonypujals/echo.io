@@ -238,7 +238,7 @@ Implementation details
 Tests
 -----
 
-You can run [mocha](http://visionmedia.github.io/mocha/) tests. Mocha is installed as a dev dependency with the package.
+You can run [mocha](http://mochajs.org/) tests. Mocha is installed as a dev dependency with the package.
 
 ```
 $ npm test
